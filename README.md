@@ -1,7 +1,7 @@
 **Excel Projects**
 This repository contains my Projects in Microsoft Excel.
 
-**#Sales dashboard built using excel**
+**Sales dashboard built using excel**
 
 a. **Bikes Sales Dasboard**
 I have utilized following tools to build a Bike Sales Dasboard by Average Income, Age Bracketets and Commute Distance -
